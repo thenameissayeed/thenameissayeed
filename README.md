@@ -1,4 +1,4 @@
-<div align = "left"><h1>Languages,Tools,Software & OS</h1> </div>
+<div align = "left"><h1>Languages, Tools, Software & OS:</h1> </div>
 
 <div> </div>
 
