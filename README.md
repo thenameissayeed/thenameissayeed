@@ -13,7 +13,7 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-800080?style=flat&logo=OpenAI&logoColor=white)
 
 <div> </div>
-<p align="left" style = "display:flex, justify-content:space-between">
+<p align="left" style = "display:flex; justify-content:space-between">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
