@@ -1,4 +1,4 @@
-<div align = "center"># Languages,Tools,Software & OS </div>
+<div align = "left"><h1>Languages,Tools,Software & OS</h1> </div>
 
 <div> </div>
 
@@ -12,7 +12,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 <div> </div>
-<p align="center">
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -25,7 +25,7 @@
 </p>
 
 
-<div align="center">
+<div align="left">
 <br>
                    <h2>Show some ❤️ by following me!</h2>
 
