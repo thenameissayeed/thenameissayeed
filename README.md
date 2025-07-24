@@ -38,7 +38,7 @@
 </p>
 
 
-<div align="left">
+<div align="center">
 <br>
                    <h2>Show some ❤️ by following me!</h2>
 
